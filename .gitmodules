@@ -1,0 +1,3 @@
+[submodule "docs/references/nanogpt"]
+	path = docs/references/nanogpt
+	url = https://github.com/karpathy/nanogpt.git
