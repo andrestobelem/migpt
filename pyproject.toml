@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = [
-    "pytest>=9.1.1",
-    "ruff>=0.17.2",
-]
+dev = ["ipykernel>=7.4.0", "pytest>=9.1.1", "ruff>=0.17.2"]
+
+[tool.ruff.lint]
+extend-ignore = []
